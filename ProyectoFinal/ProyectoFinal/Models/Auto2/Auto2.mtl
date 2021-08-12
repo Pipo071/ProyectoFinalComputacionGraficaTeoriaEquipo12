@@ -1,0 +1,227 @@
+newmtl Auto2_chassis_vl_001SG15
+illum 4
+Kd 0.13 0.13 0.14
+Ka 0.13 0.13 0.14
+Tf 0.95 0.95 0.95
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_chassis_vl_001SG17
+illum 4
+Kd 0.87 0.86 0.80
+Ka 0.87 0.86 0.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_chassis_vl_001SG19
+illum 4
+Kd 0.15 0.29 0.51
+Ka 0.15 0.29 0.51
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_chassis_vl_001SG21
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.23 0.23 0.23
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_chassis_vl_001SG23
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_initialShadingGroup2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Auto2_wheel_rf_001SG4
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_wheel_rf_002SG4
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_wheel_rf_003SG4
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_wheel_rf_004SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_wheel_rf_004SG2
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Auto2_wheel_rf_004SG4
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_002SG8
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG2
+illum 4
+Kd 0.15 0.29 0.51
+Ka 0.15 0.29 0.51
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG4
+illum 4
+Kd 0.36 0.36 0.36
+Ka 0.36 0.36 0.36
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG6
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl chassis_vl_001SG10
+illum 4
+Kd 0.67 0.15 0.15
+Ka 0.67 0.15 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Amari.jpg
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Blanco.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Amari.jpg
+Ni 1.00
+newmtl pasted__Group_002SG8
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_001SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_001SG2
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_002SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_002SG2
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_003SG
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl wheel_rf_003SG2
+illum 4
+Kd 0.84 0.84 0.84
+Ka 0.84 0.84 0.84
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
